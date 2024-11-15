@@ -1,0 +1,13 @@
+appwrite.io - help build the entire backend
+plaid (turn the app into real banking application)
+sanbox accun
+chart.js
+tailwind css
+shadcn/ui to power up tailwind library
+sentry: session replay
+
+
+
+- first install shadcn
+- Root Pages(eg, Home, About pages, only take the layout)
+- Auth Pages(eg, Sign in and Out Pages dont take the layout)
