@@ -1,5 +1,4 @@
 'use client'
-
 import { sidebarLinks } from '@/constants'
 import { cn } from '@/lib/utils'
 import Image from 'next/image'
@@ -22,7 +21,7 @@ const Sidebar = ({ user }: SiderbarProps) => {
             alt="Horizon logo"
             className="size-[24px] max-xl:size-14"
           />
-          <h1 className="sidebar-logo">Horizon</h1>
+          <h1 className="sidebar-logo">ABOCHIE</h1>
         </Link>
 
         {sidebarLinks.map((item) => {

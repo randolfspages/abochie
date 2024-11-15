@@ -11,3 +11,4 @@ sentry: session replay
 - first install shadcn
 - Root Pages(eg, Home, About pages, only take the layout)
 - Auth Pages(eg, Sign in and Out Pages dont take the layout)
+- react-chartjs-2
